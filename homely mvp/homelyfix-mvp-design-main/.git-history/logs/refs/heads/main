@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 82e5e671772dd32190c59de74e373b045dcb18ca muhammadashhadbayutx <muhammad.ashhad@bayut.sa> 1777996281 +0500	commit (initial): Initial commit: HomelyFix MVP with performance fixes
+82e5e671772dd32190c59de74e373b045dcb18ca 629a021981f338c430380a168e944b7ad74e23cb muhammadashhadbayutx <muhammad.ashhad@bayut.sa> 1777996806 +0500	commit: Server-render landing page: extract client islands, drop framer-motion from static sections

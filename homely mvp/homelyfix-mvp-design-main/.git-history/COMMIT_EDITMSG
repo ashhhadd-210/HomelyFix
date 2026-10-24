@@ -1,0 +1,7 @@
+Server-render landing page: extract client islands, drop framer-motion from static sections
+
+- Move scroll progress + smart insights panel into separate client components
+- Convert AnimatedServicesPage to a server component (no 'use client')
+- Replace perpetual motion.* loops with a single CSS keyframe (animate-float-y)
+- Drop section-level whileInView reveals (content visible immediately)
+- next.config.ts: enable AVIF/WebP image formats, disable powered-by header
